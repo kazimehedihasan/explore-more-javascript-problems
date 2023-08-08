@@ -79,10 +79,10 @@ function bestFriend(friendsArray) {
   }
   return bestFriendName;
 }
-const friends = ["kuduisa", "sumon", "emon", "khokon", "shakib"];
+const friends = {street: 10,house: '15A',society: 'Earth Perfect'}
 
 const myBestFriend = bestFriend(friends);
-// console.log("big friends:", myBestFriend);
+console.log("big friends:", myBestFriend);
 
 //---------------------------------------------------------------------
 
