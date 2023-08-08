@@ -286,7 +286,7 @@ function findingBadData(arr){
     }
 }
 const x = [ 2, -5, -7, -13 ];
-console.log(findingBadData(x))
+// console.log(findingBadData(x))
 
 //   6  -------------------------------------------------------------
 
@@ -342,4 +342,23 @@ function gemsToDiamond(x,y,z){
 
 }
 
-console.log(gemsToDiamond(100, 5, 1))
+// console.log(gemsToDiamond(100, 5, 1))
+
+
+
+// var tom = 85;
+// if(tom>= 80){
+// console.log("A");
+// }
+// else if(tom>=60){
+// console.log("B");
+// }
+// else if(tom>=50){
+// console.log("C");
+// }
+// else if(tom>=40){
+// console.log("D");
+// }
+// else{
+// console.log("F");
+// }
